@@ -1,0 +1,27 @@
+{
+  "name": "full-cycle-ci-challenge",
+  "version": "1.0.0",
+  "description": "✅ Code for the challenge presented in the Full Cycle's Continuous Integration module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiliosheinz/full-cycle-ci-challenge.git"
+  },
+  "keywords": [
+    "ci",
+    "node",
+    "node.js"
+  ],
+  "author": "emiliosheinz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emiliosheinz/full-cycle-ci-challenge/issues"
+  },
+  "homepage": "https://github.com/emiliosheinz/full-cycle-ci-challenge#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
