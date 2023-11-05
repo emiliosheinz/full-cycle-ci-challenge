@@ -15,4 +15,39 @@ function div(a, b) {
   return a / b
 }
 
-module.exports = { sum, sub, mult, div }
+function mod(a, b) {
+  return a % b
+}
+
+function pow(a, b) {
+  return a ** b
+}
+
+function sqrt(a) {
+  return Math.sqrt(a)
+}
+
+function cbrt(a) {
+  return Math.cbrt(a)
+}
+
+function log(a) {
+  return Math.log(a)
+}
+
+function log10(a) {
+  return Math.log10(a)
+}
+
+module.exports = {
+  sum,
+  sub,
+  mult,
+  div,
+  mod,
+  pow,
+  sqrt,
+  cbrt,
+  log,
+  log10,
+}
