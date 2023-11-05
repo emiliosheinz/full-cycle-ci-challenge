@@ -15,4 +15,8 @@ function div(a, b) {
   return a / b
 }
 
-module.exports = { sum, sub, mult, div }
+function mod(a, b) {
+  return a % b
+}
+
+module.exports = { sum, sub, mult, div, mod }
