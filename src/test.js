@@ -1,4 +1,4 @@
-const { sum, sub, mult, div, mod } = require('./')
+const { sum, sub, mult, div } = require('./')
 
 describe('Testing arithmetic functions', () => {
   describe('sum function', () => {
