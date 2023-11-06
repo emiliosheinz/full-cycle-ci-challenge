@@ -1,6 +1,8 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=emiliosheinz_full-cycle-ci-challenge&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=emiliosheinz_full-cycle-ci-challenge)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=emiliosheinz_full-cycle-ci-challenge&metric=coverage)](https://sonarcloud.io/summary/new_code?id=emiliosheinz_full-cycle-ci-challenge)
 
+![278782323-be381844-db4f-412a-ae08-c4de165c3cb7](https://github.com/emiliosheinz/full-cycle-ci-challenge/assets/103655828/5415f5c6-55d6-4bb0-9dcd-3d1b71347abb)
+
 # Full Cycle CI Challenge
 
 In this challenge, I'm consolidating my knowledge related to creating a CI (Continuous Integration) pipeline by performing the following steps:
