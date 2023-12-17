@@ -12,12 +12,12 @@ In this challenge, I'm consolidating my knowledge related to creating a CI (Cont
     - Runs the tests
     - Executes SonarCloud
 
-## 💻 Application
+## Application
 
 The application is a simple Node.js application that exposes several math functions: sum, sub, mult, and div. Also, inside the [.github/workflows](.github/workflows) folder, you can find the GitHub Actions workflow that is responsible for running the CI pipeline that will run the tests and execute SonarCloud.
 
 
-## 🔥 Used technologies
+## Used technologies
 
 - Node.js
 - Jest
